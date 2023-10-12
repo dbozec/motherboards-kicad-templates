@@ -1,6 +1,7 @@
-# PCIe templates
+# MotherBoards templates
 
-Here are my KiCad templates for motherboards
+Here are my KiCad templates for motherboards.
+
 They are standard sizes based on "ATX Specification v2.2" and "Thin Mini-ITX Based PC System Design Guide rev 1.2" documents
 
 ![icon](Mini-ITX/meta/icon.png)
